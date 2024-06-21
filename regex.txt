@@ -1,0 +1,7 @@
+10
+20
+def
+xyz
+abc
+aman
+akshay
