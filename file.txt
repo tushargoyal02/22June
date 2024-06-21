@@ -1,0 +1,500 @@
+    9  ls
+   10  git remote add origin https://github.com/tushargoyal02/gittest.git
+   11  git branch -M main
+   12  pwd
+   13  mkdir  24april
+   14  cd 24april/
+   15  ls  -a
+   16  git  init
+   17  ls  -a
+   18  touch  abc.txt
+   19  git status
+   20  git status
+   21  git  add  abc.txt 
+   22  git  commit
+   23  git  status
+   24  git  log
+   25  git remote add origin https://github.com/tushargoyal02/24April.git
+   26  git branch -M main
+   27  git push -u origin main
+   28  ls
+   29  vi tushar.txt
+   30  git  status
+   31  git  add tushar.txt 
+   32  git  status
+   33  vi  tushar.txt
+   34  ls
+   35  git  status
+   36  git diff
+   37  git  status
+   38  git  add  tushar.txt 
+   39  git  status
+   40  git  status
+   41  git  commit -m "tushar file is created"
+   42  git  push
+   43  git branch
+   44  ls
+   45  git  branch  test
+   46  git  branch 
+   47  git  checkout  test
+   48  git  branch 
+   49  ls
+   50  touch  regex.txt
+   51  touch  index.html
+   52  git  status
+   53  git  add  .
+   54  git  status
+   55  git  commit  -m "index file added"
+   56  git push
+   57  git  push  -u  origin test
+   58  git  branch
+   59  ls
+   60  git checkout  main
+   61  ls
+   62  git  branch
+   63  git  merge  test
+   64  ls
+   65  ls
+   66  git  clone  https://github.com/devanshpurohit/Day-Responsive-website.git
+   67  ls
+   68  pwd
+   69  mkdir  4may
+   70  cd  4may/
+   71  pwd
+   72  pwd
+   73  ls  -a
+   74  git  init
+   75  ls  -a
+   76  touch  data.txt
+   77  ls
+   78  git  status
+   79  git   add  data.txt 
+   80  git  status
+   81  git  commit 
+   82  git  status
+   83  git  commit 
+   84  git  log
+   85  mkdir  5may
+   86  cd  5may/
+   87  pwd
+   88  touch  ujjwal.txt
+   89  git   status
+   90  ls  -a
+   91  git  init
+   92  ls  -a
+   93  git status
+   94  git   add ujjwal.txt 
+   95  ls  -l
+   96  ls  -la
+   97  ls  -a
+   98  git   add ujjwal.txt 
+   99  git status
+  100  git status
+  101  git  commit
+  102  git status
+  103  git  log
+  104  touch  akshay.txt
+  105  git status
+  106  git  add  akshay.txt 
+  107  git  commit
+  108  git status
+  109  git log
+  110  history 
+  111  git log
+  112  git remote add origin https://github.com/tushargoyal02/5may.git
+  113  git branch -M main
+  114  git push -u origin main
+  115  touch isha.txt
+  116  git add isha.txt 
+  117  git commit -m "isha file is created"
+  118  git log
+  119  git log
+  120  git log --oneline
+  121  git push
+  122  git log --oneline
+  123  git  log
+  124  git  log   --oneline
+  125  git  tag  "v1.0"  bc2afcd
+  126  git  log   --oneline
+  127  git  tag  "v2.3" cfb2429
+  128  git  log   --oneline
+  129  git  push --tags
+  130  git  branch
+  131  git  branch  development
+  132  git  branch
+  133  git checkout development
+  134  git  branch
+  135  ls
+  136  touch   index.home  index.html
+  137  ls
+  138  git  add  .
+  139  git commit  -m  "index file are create"
+  140  git push
+  141  git push  -u  origin development
+  142  git status
+  143  git  branch
+  144  git  checkout main
+  145  ls
+  146  git  merge  development
+  147  ls
+  148  git  log
+  149  q
+  150  git  log --oneline
+  151  git  clone  https://github.com/RohitKumawat424/rohitkumawat.git
+  152  ls
+  153  mkdir   interns
+  154  cd  interns
+  155  pwd
+  156  ls
+  157  ls  -a
+  158  git  init
+  159  ls  -a
+  160  touch  regex.txt
+  161  ls
+  162  git  status
+  163  git  status
+  164  git  add  regex.txt 
+  165  git  status
+  166  git  config   --global  user.email  "tushargoyal@gma"
+  167  git  commit
+  168  git  status
+  169  git  log
+  170  touch  raj.html
+  171  git  status
+  172  git  add raj.html 
+  173  git  status
+  174  git commit
+  175  git  log
+  176  git remote add origin https://github.com/tushargoyal02/may_interns.git
+  177  git branch -M main
+  178  git push -u origin main
+  179  touch ujjwal.txt
+  180  git  add  ujjwal.txt 
+  181  git  commit  -m  "ujjwal file is created"
+  182  git log
+  183  git push
+  184  vi  count.txt
+  185  git  add  count.txt 
+  186  vi  count.txt
+  187  ls
+  188  git  status
+  189  git  diff
+  190  ls
+  191  vi  count.txt
+  192  git  diff
+  193  git  branch
+  194  ls
+  195  git  add   .
+  196  git  commit  -m   "all files added"
+  197  git  push
+  198  git  branch
+  199  ls
+  200  git  branch  feature
+  201  git  branch
+  202  git   checkout  feature
+  203  git  branch
+  204  touch   data.txt
+  205  touch  home.html  home.css
+  206  ls
+  207  git  add  .
+  208  git  commit  -m "home files are added"
+  209  git  push
+  210  git  push  -u  origin feature
+  211  git  checkout  main
+  212  git  branch
+  213  ls
+  214  git  merge  feature
+  215  ls
+  216  cd  ..
+  217  mkdir  8may
+  218  cd  8may/
+  219  history 
+  220  history 
+  221  pwd
+  222  mkdir  21may
+  223  cd 21may/
+  224  ls
+  225  ls  -a
+  226  git  init
+  227  ls  -a
+  228  git status
+  229  touch abc.txt
+  230  git status
+  231  pwd
+  232  mkdir  22may
+  233  cd  22may/
+  234  git  init
+  235  touch    abc.txt
+  236  git  status
+  237  git  add  abc.txt c
+  238  git  add  abc.txt 
+  239  git  status
+  240  pwd
+  241  git  add  abc.txt 
+  242  git  status
+  243  git commit
+  244  git  status
+  245  git  log
+  246  git remote add origin https://github.com/tushargoyal02/22may.git
+  247  git branch -M main
+  248  git push -u origin main
+  249  git  branch
+  250  git  branch development
+  251  git  branch
+  252  ls
+  253  git status
+  254  git status
+  255  git  branch
+  256  git  checkout development
+  257  git  branch
+  258  ls
+  259  touch  home.html  home.css
+  260  git   add  .
+  261  git  status
+  262  git  commit  -m  "new home files are added"
+  263  git  log
+  264  git  push
+  265  git push --set-upstream origin development
+  266  git  branch
+  267  git  checkout main
+  268  git  branch
+  269  ls
+  270  git  branch
+  271  ls
+  272  git  merge  development
+  273  ls
+  274  pwd
+  275  cd  ..
+  276  pwd
+  277  mkdir 4june
+  278  cd 4june
+  279  pwd
+  280  ls
+  281  ls  -a
+  282  git  init
+  283  ls  -a
+  284  touch  data.txt
+  285  ls  -a
+  286  ls  -a
+  287  git  status
+  288  git  status
+  289  git  add  data.txt 
+  290  git  status
+  291  git  commit
+  292  git  status
+  293  git  log
+  294  git remote add origin https://github.com/tushargoyal02/june6.git
+  295  git branch -M main
+  296  git push -u origin main
+  297  pwd
+  298  cd  ..
+  299  pwd
+  300  mkdir  isha
+  301  cd  isha
+  302  pwd
+  303  pwd
+  304  ls  -a
+  305  git  init
+  306  ls  -a
+  307  touch  data.txt
+  308  ls  -a
+  309  git  status
+  310  git  add   data.txt 
+  311  git  status
+  312  git  commit
+  313  git  status
+  314  git  log
+  315  git remote add origin https://github.com/tushargoyal02/isha123.git
+  316  git branch -M main
+  317  git push -u origin main
+  318  ls
+  319  vi  count.txt
+  320  git  status
+  321  git   add  count.txt
+  322  git  status
+  323  git  status
+  324  vi  count.txt 
+  325  ls
+  326  ls
+  327  git  status
+  328  git  diff
+  329  vi  count.txt 
+  330  git  diff
+  331  cat   count.txt 
+  332  git  status
+  333  git restore count.txt 
+  334  cat   count.txt 
+  335  git  status
+  336  git  status
+  337  git  add  .
+  338  git  commit  -m  "add files are added"
+  339  git  push
+  340  ls
+  341  git  branch
+  342  git branch  development
+  343  git  branch
+  344  git  checkout development 
+  345  git  branch
+  346  touch data.txt
+  347  touch home.html
+  348  ls
+  349  touch home.css
+  350  git status
+  351  git  add  home.css  home.html
+  352  git status
+  353  git  commit -m "home files are added"
+  354  git status
+  355  git push
+  356  git  push  -u origin development
+  357  git  branch
+  358  git checkout main
+  359  ls
+  360  git  merge development
+  361  ls
+  362  git log
+  363  ls
+  364  git checkout 8846f4ba
+  365  ls
+  366  pwd
+  367  mkdir  14june
+  368  cd  14june
+  369  pwd
+  370  pwd
+  371  ls
+  372  ls  -a
+  373  ls  -a
+  374  git  init
+  375  ls  -a
+  376  touch  om
+  377  touch  index.html
+  378  ls
+  379  git  status
+  380  git  status
+  381  git  add index.html  om
+  382  git  status
+  383  git  commit
+  384  git  status
+  385  git  log
+  386  touch  home.css
+  387  git status
+  388  git  add home.css 
+  389  git status
+  390  git  commit
+  391  git  log
+  392  history 
+  393  git remote add origin https://github.com/tushargoyal02/14June.git
+  394  git branch -M main
+  395  git push -u origin main
+  396  mkdir 16june
+  397  cd  16june/
+  398  ls  -a
+  399  git  init
+  400  ls  -a
+  401  touch  abc.txt
+  402  git  status
+  403  git add abc.txt 
+  404  git  status
+  405  git  commit
+  406  git  status
+  407  ls -a
+  408  git  log
+  409  git remote add origin https://github.com/tushargoyal02/16june_regex.git
+  410  git branch -M main
+  411  git push -u origin main
+  412  touch data.txt
+  413  git status
+  414  git add data.txt 
+  415  git commit  -m "data.txt file is created"
+  416  git  log
+  417  git push
+  418  vi count.txt
+  419  git  add  count.txt 
+  420  git status
+  421  vi  count.txt 
+  422  ls
+  423  git status
+  424  git  diff
+  425  vi  count.txt 
+  426  git  diff
+  427  vi  count.txt 
+  428  git  diff
+  429  git status
+  430  cat count.txt 
+  431  git restore count.txt 
+  432  cat count.txt 
+  433  git branch
+  434  ls
+  435  git  status
+  436  git branch
+  437  git add  .
+  438  git  commit -m "all files are added"
+  439  git branch
+  440  git  branch  development
+  441  git branch
+  442  git checkout  development
+  443  git branch
+  444  ls
+  445  git branch
+  446  touch  index.html  index.csss
+  447  git  add index.html  index.css
+  448  git  add index.html  index.csss
+  449  git  commit  -m  "index files are added"
+  450  git log
+  451  git  push
+  452  git  push  -u origin development
+  453  git branch
+  454  git checkout main
+  455  ls
+  456  git  merge  development 
+  457  git  log
+  458  pwd
+  459  mkdir   20june
+  460  cd  20june
+  461  pwd
+  462  ls
+  463  ls  -a
+  464  pwd
+  465  git  init
+  466  ls  -a
+  467  touch  data.txt
+  468  ls
+  469  ls  -a
+  470  git  status
+  471  git  add  data.txt 
+  472  git  status
+  473  git  statis
+  474  git  status
+  475  git  status
+  476  git  commit
+  477  git  log
+  478  touch abc.txt
+  479  git status
+  480  git  add  abc.txt 
+  481  git status
+  482  git  commit
+  483  git  log
+  484  git remote add origin https://github.com/tushargoyal02/20June_2024.git
+  485  git branch -M main
+  486  git push -u origin main
+  487  pwd
+  488  cd ..
+  489  pwd
+  490  mkdir  21jue
+  491  cd  21june
+  492  cd  21jue
+  493  pwd
+  494  ls
+  495  ls  -a
+  496  git status
+  497   git  iniy
+  498  git status
+  499  git  init
+  500  ls  -a
+  501  mkdir  22june
+  502  cd 22june/
+  503  git  init
+  504  ls  -a
+  505  touch data.txt
+  506  ls 
+  507  git  status
+  508  history  > file.txt
